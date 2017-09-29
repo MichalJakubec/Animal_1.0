@@ -1,0 +1,1 @@
+Return if the animal is fullness
